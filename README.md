@@ -1,4 +1,3 @@
-
 <h1 align="center">Assalam o Alaikum 👋, I'm Sarfaraz Qadir</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
