@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sarfarazqadir594@gmail.com**
 - 📫 My Website Link: <button><a href="https://ctc-vaccination-123.000webhostapp.com/">Website</button>
-- 👨‍💻 My Portfolio <button><a href="https://sarfarazportfolio.netlify.app/">Netlify</button>
+- 👨‍💻 My Portfolio <button><a href="https://app.netlify.com/sites/comforting-cat-a43b87/overview">Netlify</button>
 
 
 <h3 align="left">Connect with me:</h3>
