@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/23634747/sarfaraz-qadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer ahmed" height="30" width="40" /></a>    
 <a href="https://twitter.com/sarfarazqadir14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarfarazqadir14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarfaraz qadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfaraz qadir" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sarfaraz.baloch.315080?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarfarazbaloch" height="30" width="40" /></a>
