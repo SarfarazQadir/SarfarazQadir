@@ -9,6 +9,7 @@
 - 📫 My Website Link: <button><a href="https://ctc-vaccination-123.000webhostapp.com/">Website</button>
 - 📫 My Website Link: <button><a href="https://airlinereservationsystem.runasp.net/">Airline Reservation System</button>
 - 👨‍💻 My Portfolio <button><a href="https://comforting-cat-a43b87.netlify.app/">Netlify</button>
+- 👨‍💻 My Updated Portfolio <button><a href="https://sarfaraz-qadir-portfolio-2025-1mcd.vercel.app/">Netlify</button>
 
 
 <h3 align="left">Connect with me:</h3>
